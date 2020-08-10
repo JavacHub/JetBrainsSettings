@@ -4,6 +4,10 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Source Code Pro for Powerline" />
+    <option name="LINE_SPACING" value="1.0" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Cousine for Powerline" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
